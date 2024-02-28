@@ -43,5 +43,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@MohanaVarshitha"
   },
-  "name": "@MohanaVarshitha/my-button"
+  "name": "@mohanavarshitha/my-button"
 }
